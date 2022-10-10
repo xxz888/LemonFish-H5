@@ -1,0 +1,103 @@
+import Vue from "vue";
+import {
+  Icon,
+  Tab,
+  Tabs,
+  List,
+  Cell,
+  Button,
+  Popup,
+  Field,
+  Dialog,
+  Toast,
+  Swipe,
+  SwipeItem,
+  Area,
+  NavBar,
+  CellGroup,
+  Image,
+  Sticky,
+  Calendar,
+  Checkbox,
+  CheckboxGroup,
+  PullRefresh,
+  Badge,
+  Stepper,
+  Picker,
+  DatetimePicker,
+  Form,
+  Search,
+  Radio,
+  RadioGroup,
+  Grid,
+  GridItem,
+  Col,
+  Row,
+  ActionSheet,
+  Collapse,
+  CollapseItem,
+  Card,
+  ContactCard,
+  Empty,
+  Loading,
+  Rate,
+  Tag,
+  Popover,
+  Pagination,
+  Tabbar, TabbarItem ,
+  Circle,
+  CountDown
+} from "vant";
+
+Vue.use(ActionSheet);
+Vue.use(Radio);
+Vue.use(RadioGroup);
+Vue.use(Icon);
+Vue.use(Tab);
+Vue.use(Tabs);
+Vue.use(List);
+Vue.use(Cell);
+Vue.use(Button);
+Vue.use(Popup);
+Vue.use(Field);
+Vue.use(Dialog);
+Vue.use(Toast);
+Vue.use(Swipe);
+Vue.use(SwipeItem);
+Vue.use(Area);
+Vue.use(NavBar);
+Vue.use(CellGroup);
+Vue.use(Image);
+Vue.use(Sticky);
+Vue.use(Calendar);
+Vue.use(Checkbox);
+Vue.use(CheckboxGroup);
+Vue.use(PullRefresh);
+Vue.use(Badge);
+Vue.use(Stepper);
+Vue.use(Picker);
+Vue.use(DatetimePicker);
+Vue.use(Form);
+Vue.use(Field);
+Vue.use(List);
+Vue.use(Search);
+Vue.use(Radio);
+Vue.use(RadioGroup);
+Vue.use(Grid);
+Vue.use(GridItem);
+Vue.use(Col);
+Vue.use(Row);
+Vue.use(Collapse);
+Vue.use(CollapseItem);
+Vue.use(Card);
+Vue.use(ContactCard);
+Vue.use(Empty);
+Vue.use(Loading);
+Vue.use(Rate);
+Vue.use(Tag);
+Vue.use(Popover);
+Vue.use(Pagination);
+Vue.use(Tabbar);
+Vue.use(TabbarItem);
+Vue.use(Circle);
+Vue.use(CountDown);
