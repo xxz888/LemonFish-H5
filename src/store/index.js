@@ -40,30 +40,7 @@ const config = {
         updateToken(state, payload) {
             state.token = payload;
         },
-        updateTrainType(state, payload) {
-            state.trainType = payload;
-        },
-        updateTrainTypeDesc(state, payload) {
-            state.trainTypeDesc = payload;
-        },
-        updateOpenId(state, payload) {
-            state.openId = payload;
-        },
-        updateAppId(state, payload) {
-            state.appId = payload;
-        },
-        updateName(state, payload) {
-            state.name = payload;
-        },
-        updateLat(state, payload) {
-            state.lat = payload;
-        },
-        updateLng(state, payload) {
-            state.lng = payload;
-        },
-        updateTrainTimeType(state, payload) {
-            state.trainTimeType = payload;
-        },
+
     },
     actions: {}
 }
